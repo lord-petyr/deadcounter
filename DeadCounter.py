@@ -5,8 +5,8 @@ it makes a regresive count till your dead (the code is supossing that you'll
 live 80 years, it could be more or less deppending of your habits, or maybe a accident.)
 Value your life, you just have one and with limited time.
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit
-http://creativecommons.org/licenses/by-sa/4.0/.
+DeadCounter by Lord Petyr is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 '''
 import time
 import datetime
